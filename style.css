@@ -1,0 +1,57 @@
+
+
+header{
+    border: solid 2px;
+    display: flex;
+    align-items: center;
+    padding: 20px;
+}
+
+header .logo{
+ width: 150px;
+}
+
+header input{
+    width:600px;
+    margin-left: 160px;
+    padding: 12px;
+    border-radius: 20px;
+
+
+}
+
+.carrinho{
+    margin-left: auto;
+    width: 30px;
+
+}
+
+.lupa{
+    width: 40px; 
+    position: relative;
+    left: 160px;
+}
+
+nav{
+    text-align: center;
+    margin-top: 10px;
+}
+
+.listra{
+    background-color: black;
+    padding: 15px;
+    width: 100%;
+    color: white;
+    display: flex;
+    text-decoration: none;
+
+}
+ a{
+    text-decoration: none;
+    color: white;
+   
+ }
+
+
+
+
