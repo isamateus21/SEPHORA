@@ -102,8 +102,13 @@ a {
     height: auto;
     object-fit: contain;
     display: flex;
+    
 
 
+}
+
+.cor:hover{
+    background-color: rgb(168, 161, 161);
 }
 
 
@@ -133,4 +138,28 @@ a {
     width: 100%;
     font-size: 20px;
     height: 100%;
+}
+
+.botao
+{color: black;
+
+}
+
+button{
+   
+    border-radius: 10px;
+}
+
+footer{
+    background-color: rgb(252, 252, 252);
+    border: 2px solid black;
+    margin-top: 8px;
+    padding: 10px;
+
+}
+
+.redes{
+    width: 40px;
+    padding: 8px;
+    margin-top: 100px;
 }
